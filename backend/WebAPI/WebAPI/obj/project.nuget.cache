@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nHtA1kmVyno=",
+  "dgSpecHash": "Nms6dwmGVeI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Indatech\\Documents\\Desarrollo\\Proyectos de Practica\\Angular y .net\\Backend\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Indatech\\Documents\\Desarrollo\\Proyectos de Practica\\Login-Angular-.Net\\Login-Angular-.Net\\backend\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Indatech\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Indatech\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
